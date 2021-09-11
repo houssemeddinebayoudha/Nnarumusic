@@ -2,7 +2,7 @@
 
 Nnaruumusic is a discord bot made with Discord.py and is able to play and queue music/playlists and a lot of other useful functions.
 
-## Installation
+## How to replicate
 
 You can fork/download the repo and change the token with your disord bot's token
 
