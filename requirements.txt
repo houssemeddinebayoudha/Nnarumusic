@@ -1,0 +1,4 @@
+pynacl==1.2.1
+discord.py
+pip
+youtube_dl
