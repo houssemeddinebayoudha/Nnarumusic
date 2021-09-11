@@ -6,7 +6,7 @@ Nnaruumusic is a discord bot made with Discord.py and is able to play and queue 
 
 You can fork/download the repo and change the token with your disord bot's token
 
-```bash
+```python
 client.run("token")
 ```
 
