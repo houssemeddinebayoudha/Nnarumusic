@@ -1,4 +1,4 @@
-# Nnaruumusic
+# Nnarumusic
 
 Nnaruumusic is a discord bot made with Discord.py and is able to play and queue music/playlists and a lot of other useful functions.
 
